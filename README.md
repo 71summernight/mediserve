@@ -1,5 +1,5 @@
 # Mediserve
-![https://user-images.githubusercontent.com/81367886/144597071-b6252429-d411-4349-80d6-59b99d9abbd2.jpeg]
+![https://user-images.githubusercontent.com/81367886/144597071-b6252429-d411-4349-80d6-59b99d9abbd2.jpeg]()
 
 ## 프로젝트 소개
 증상의뢰에서 처방까지 한번에 처리할 수 있는 App
