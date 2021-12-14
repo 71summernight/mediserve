@@ -1,5 +1,5 @@
 # Mediserve
-![https://user-images.githubusercontent.com/81367886/144597071-b6252429-d411-4349-80d6-59b99d9abbd2.jpeg]()
+![Mediserve](https://user-images.githubusercontent.com/81367886/144597071-b6252429-d411-4349-80d6-59b99d9abbd2.jpeg)
 
 ## 프로젝트 소개
 증상의뢰에서 처방까지 한번에 처리할 수 있는 App
@@ -15,7 +15,7 @@
 - **Common**: 버전관리 `Git & GitHub`, 소통 `Slack`,  일정관리 `Trello`
 
 ## 내가 구현한 부분
-![Uploading 스크린샷 2021-12-09 오후 5.58.03.png…]()
+<img width="1204" alt="스크린샷 2021-12-09 오후 5 58 03" src="https://user-images.githubusercontent.com/71966681/145967144-e633ac29-f18e-4f8a-86e1-5df229fa2583.png">
 > 공통사항
 - MediaQuery를 통한 반응형 구현하였습니다.
 
