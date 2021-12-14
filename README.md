@@ -16,6 +16,7 @@
 
 ## 내가 구현한 부분
 <img width="1204" alt="스크린샷 2021-12-09 오후 5 58 03" src="https://user-images.githubusercontent.com/71966681/145967144-e633ac29-f18e-4f8a-86e1-5df229fa2583.png">
+
 > 공통사항
 - MediaQuery를 통한 반응형 구현하였습니다.
 
